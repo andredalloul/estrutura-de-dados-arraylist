@@ -2,8 +2,6 @@
 #
 Aqui estou mostrando as possibilidades de trabalhar com um Vetor usando a classe nativa do Java ArrayList.
 #
-Com essa classe podemos utilizar qualquer tipo de variavel (inteiro, String, etc...)
-#
 1 - Criando Vetor onde o usuário passa o tamanho inicial do Vetor.
 #
 2 - Adicionando elementos ao Vetor.
